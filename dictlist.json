@@ -21,7 +21,7 @@
     },
     {
         "question": "obac",
-        "answer": "```> obacs/object activator checks```Object Activators have a field for an Object Activation Check. Think of this as a *condition*; the OBAC is required to be "Ready to Activate" in order for the Object Activator to trigger. You can set it by calling `ObjectActivationCheck.StateChange` from another Object Activator."
+        "answer": "```> obacs/object activator checks```Object Activators have a field for an Object Activation Check. Think of this as a *condition*; the OBAC is required to be \"Ready to Activate\" in order for the Object Activator to trigger. You can set it by calling `ObjectActivationCheck.StateChange` from another Object Activator."
     },
     {
         "question": "layers",
