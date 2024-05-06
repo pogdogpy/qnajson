@@ -1,0 +1,34 @@
+[
+    {
+        "question": "texturetut",
+        "answer": "https://cdn.discordapp.com/attachments/787116087275028510/817866896195584060/2019-06-19_16-40-07.webm?ex=6639f027&is=66389ea7&hm=c3d4b44e3be88cf7acd906cf5ccfb354c03eff00c224c186e668c294157687e6&"
+    },
+    {
+        "question": "deathmarkers",
+        "answer": "```> deathmarkers```When a GameObject with a DeathMarker component is enabled, the Dead Enemies count of the nearest parent ActivateNextWave is bumped. Think of them as *dummy enemies*."
+    },
+    {
+        "question": "arenas",
+        "answer": "```> arenas guide```https://deploy-preview-7--tundra-docs.netlify.app/guides/arenas"
+    },
+    {
+        "question": "lights",
+        "answer": "```> lights guide```https://docs.tundra.pitr.dev/guides/lights/"
+    },
+    {
+        "question": "checkpoints",
+        "answer": "```> checkpoints guide```https://docs.tundra.pitr.dev/guides/checkpoints"
+    },
+    {
+        "question": "obac",
+        "answer": "```> obacs/object activator checks```Object Activators have a field for an Object Activation Check. Think of this as a *condition*; the OBAC is required to be "Ready to Activate" in order for the Object Activator to trigger. You can set it by calling `ObjectActivationCheck.StateChange` from another Object Activator."
+    },
+    {
+        "question": "layers",
+        "answer": "```> lights guide```https://docs.tundra.pitr.dev/guides/lights/"
+    },
+    {
+        "question": "navmesh",
+        "answer": "```> navmesh guide```https://docs.tundra.pitr.dev/important/navmesh"
+    }
+]
